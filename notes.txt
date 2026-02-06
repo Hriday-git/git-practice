@@ -1,1 +1,1 @@
-Main branch says hello.
+Conflict branch says hi.
